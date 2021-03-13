@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Organizer]
+@="Organizar Aqui..."
+"Icon"="C:\\FILE_ORGANIZER\\final\\ico.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Organizer\command]
+@="\"C:\\FILE_ORGANIZER\\final\\main.exe\" \"%v.\""
