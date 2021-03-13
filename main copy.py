@@ -112,7 +112,6 @@ class ORGANIZER:
             pass
         
 
-
 path = "." if sys.argv else sys.argv[1]
 EXEC = ORGANIZER(path)
 
